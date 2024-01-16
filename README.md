@@ -3,8 +3,8 @@
 
 - 🌱 I’m currently learning **Data Science using various Analytics tools**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/antonette-presentina-2b32a345/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antonette-presentina-2b32a345/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13920115/antonette-presentina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13920115/antonette-presentina" height="30" width="40" /></a>
 <a href="https://instagram.com/antonettepresentina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="antonettepresentina" height="30" width="40" /></a>
