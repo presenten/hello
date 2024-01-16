@@ -1,14 +1,15 @@
-# Hi there 👋
- I'm currently diving into the world of data analysis, exploring diverse datasets with different tools⚒️to find insights📊 and tell stories📜
+<h1 align="center">Hi 👋, I'm Antonette Presentina</h1>
+<h3 align="center">Passionate Marketer, Aspiring Data Analyst from Chennai</h3>
 
-## Skills
+- 🌱 I’m currently learning **Data Science using various Analytics tools**
 
-<b>Visualization Tools:</b> Tableau, PowerBI </br>
-<b>Data Wrangling:</b> Pivot Tables, SQL
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/antonette-presentina-2b32a345/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antonette-presentina-2b32a345/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/13920115/antonette-presentina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13920115/antonette-presentina" height="30" width="40" /></a>
+<a href="https://instagram.com/antonettepresentina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="antonettepresentina" height="30" width="40" /></a>
+</p>
 
-<p dir="auto">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fa7c4294c987f56c6bcae98942266f5264f81f9abf5bb9da77ae69aefdcfc94a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3435623864383f7374796c653d666c61742d737175617265266c6f676f3d7265616374266c6f676f436f6c6f723d7768697465"><img alt="Data Analyst" data-canonical-src="https://img.shields.io/badge/DataAnalyst-blue)https://img.shields.io/badge/DataAnalyst-blue" style="max-width: 100%;"></a>
- 
-
-  </p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
