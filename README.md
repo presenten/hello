@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Antonette Presentina</h1>
 <h3 align="center">Passionate Marketer, Aspiring Data Analyst from Chennai</h3>
 
-I’m currently learning **Data Science using various Analytics tools**
+<p align="center">I’m currently learning **Data Science using various Analytics tools** </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
